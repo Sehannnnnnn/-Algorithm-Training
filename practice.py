@@ -1,2 +1,5 @@
-arr = [1]
-print(0 == False)
+import random
+
+n = int(input())
+b = random.randrange(2, n)
+print(b)
