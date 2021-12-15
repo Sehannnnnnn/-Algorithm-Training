@@ -8,16 +8,15 @@ __with python__
 __2021.09 ~ 2021.12__
 
 ## Week
-
   2. Fibona Chicken (피보나치킨 문제)
-  3. Monster Hunting (몬스터 사냥 문제)
-- 분할정복 알고리즘
+  3. Monster Hunting (몬스터 사냥 문제)<br>
+- 분할정복 알고리즘 <br>
   4. 1k Sorting (정렬 - 퀵소트)
   5. Closest Pair (최근접 쌍 찾기 문제)
-- 그리디 알고리즘
+- 그리디 알고리즘<br>
   7. Finding MST (MST 찾기 문제)
-  8. Task Scheduling (작업-기계 배정 문제)
-- 동적계획 알고리즘
+  8. Task Scheduling (작업-기계 배정 문제)<br>
+- 동적계획 알고리즘<br>
   9. All Pair Shorsets (플로이드 알고리즘 - 모든 지점 간 최단거리 문제)
   10. Knapsack Problem (배낭문제)
   11. Coin Change (동전 거스름돈 문제)
