@@ -10,4 +10,4 @@ for _ in range(C):
         upAVG.append(1 if score > AVG else 0)
     print('{:.3f}%'.format(sum(upAVG)/case[0]*100))
 
-#format 함수 사용법 또 까먹지말고 기억하고 있자 (자유자재로 사용할 수 있도록)
+#format 함수 사용법 또 까먹지말고 기억하고 있자 (자유자재로 사용할 수 있도록)$

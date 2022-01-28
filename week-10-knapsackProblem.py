@@ -6,12 +6,12 @@ D = [[0]*(K+1) for _ in range(N+1)]
 W = [] 
 V = [] 
 for _ in range(N): 
-    v, w = map(int, input().split()) 
+    w, v = map(int, input().split()) 
     W.append(w) 
     V.append(v) 
     
 for i in range(1, N+1): 
-    for j in range(1, K+1): 
+    for j in range(1, K+1):
         if j < W[i-1]: 
             D[i][j] = D[i-1][j] 
         else: 
