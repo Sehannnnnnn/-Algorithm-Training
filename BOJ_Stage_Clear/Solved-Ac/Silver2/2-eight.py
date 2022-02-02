@@ -1,12 +1,12 @@
 #그리디 1105번 문제 팔
 
-l, r = map(str,input().split())
+l, r = input().split()
 ans = 0
 
 if len(l) != len(r):
-    print(0)
+    print(ans)
 else:
-    for i in range(1, len(l)):
+    for i in range(len(l)):
         if l[i] != r[i]:
             break
         else:
